@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+/modules/vpc_module/.terraform
+/modules/vpc_module/.terraform.lock.hcl
